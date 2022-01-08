@@ -55,7 +55,7 @@
     "crypto-js": "^3.3.0",
     "electron-download-manager": "^2.1.2",
     "electron-log": "^3.0.9",
-    "electron-updater": "^4.3.5",
+    "electron-updater": "^4.6.1",
     "electron-util": "^0.11.0",
     "elliptic": "^6.5.4",
     "ethers": "^5.0.26",
