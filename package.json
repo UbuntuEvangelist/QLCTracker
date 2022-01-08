@@ -71,7 +71,7 @@
     "pidusage": "^2.0.21",
     "ps-node": "^0.1.6",
     "qlc.js": "0.0.7",
-    "qrcode": "^1.4.4",
+    "qrcode": "^1.5.0",
     "rxjs": "^6.6.3",
     "signal-exit": "^3.0.3",
     "sockjs": "^0.3.21",
